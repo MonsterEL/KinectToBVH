@@ -1,0 +1,19 @@
+﻿<UserControl x:Class="MocapView.Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+             xmlns:local="clr-namespace:MocapView.View">
+    <Grid x:Name="LayoutRoot" >
+        <Grid.Background>
+            <RadialGradientBrush>
+                <RadialGradientBrush.GradientStops>
+                    <GradientStop Offset="0" Color="#FF444444" />
+                    <GradientStop Offset="1.1" Color="#FF000000" />
+                </RadialGradientBrush.GradientStops>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <local:Viewport3D x:Name="viewport1" Width="200" Height="100" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200, 250,0,0" />
+        <local:Viewport3D x:Name="viewport2" Width="200" Height="100" />
+        <Button Content="Add Another Person" Width="200" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top"  Click="btnAddPerson_Click"/>
+        <Button Content="Open Motion Capture File (.bvh)" Width="200" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top"  Click="Button_Click" Margin="220,0,0,0"/>
+    </Grid>
+</UserControl>
