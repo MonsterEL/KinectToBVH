@@ -1,0 +1,13 @@
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\bin\Debug\KinectToBVH.exe.config
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\bin\Debug\KinectToBVH.exe
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\bin\Debug\KinectToBVH.pdb
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\MainWindow.baml
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\MainWindow.g.cs
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\App.g.cs
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH_MarkupCompile.cache
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.g.resources
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.Properties.Resources.resources
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.csproj.GenerateResource.Cache
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.exe
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.pdb
+D:\Github\VisualStudio\KinectToBVH\KinectToBVH\obj\Debug\KinectToBVH.csprojResolveAssemblyReference.cache

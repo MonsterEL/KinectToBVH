@@ -1,0 +1,13 @@
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\bin\Debug\WPF3DTest.exe.config
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\bin\Debug\WPF3DTest.exe
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\bin\Debug\WPF3DTest.pdb
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\MainWindow.baml
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\MainWindow.g.cs
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\App.g.cs
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest_MarkupCompile.cache
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.g.resources
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.Properties.Resources.resources
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.csproj.GenerateResource.Cache
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.exe
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.pdb
+D:\Github\VisualStudio\WPF3DTest\WPF3DTest\obj\Debug\WPF3DTest.csprojResolveAssemblyReference.cache

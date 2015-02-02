@@ -1,0 +1,9 @@
+﻿<Window x:Class="KinectToBVH.MainWindow" WindowStartupLocation="CenterScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="720" Width="1080" Background="Black" Loaded="WindowLoaded" Closing="WindowClosing">
+    <Grid Name ="grid" Background="Black">
+        <Canvas Name="canvas" Width="640" Height="700" VerticalAlignment="Center" Background="Black">
+        </Canvas>
+    </Grid>
+</Window>
